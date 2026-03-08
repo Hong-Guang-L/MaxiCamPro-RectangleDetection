@@ -1,0 +1,15 @@
+id: combo
+name: combo电赛无敌代码
+version: 1.0.1
+author: combo
+icon: app.png
+desc: 无敌版，满分代码
+files:
+  - micu_uart_lib\__init__.py
+  - micu_uart_lib\config.py
+  - micu_uart_lib\simple_uart.py
+  - micu_uart_lib\utils.py
+  - app.png
+  - app.yaml
+  - main.py
+  - test.py

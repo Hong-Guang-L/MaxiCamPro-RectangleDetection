@@ -1,0 +1,53 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 打包文件
+dist/
+build/
+*.egg-info/
+*.egg
+
+# 环境变量文件（可能包含敏感信息）
+.env
+.env.local
+
+# 日志文件
+*.log
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*.cache
+
+# 测试覆盖率报告
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# 虚拟环境
+venv/
+ENV/
+env/
+
+# MaxiCamPro 特定文件
+# 注意：保留 app.yaml 和 app.png，这些是应用必需的
