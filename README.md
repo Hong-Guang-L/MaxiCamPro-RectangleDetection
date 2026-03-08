@@ -7,7 +7,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**2025 年全国大学生电子设计竞赛 E 题 满分解决方案**
+**2025 年全国大学生电子设计竞赛 E 题 矩形识别**
 
 [项目演示](#演示效果) | [快速开始](#快速开始) | [技术文档](#技术文档) | [API 文档](#api-文档)
 
@@ -494,9 +494,7 @@ return quads
 
 感谢以下组织和个人的支持：
 
-- 2025 年全国大学生电子设计竞赛组委会
-- 指导老师
-- MaxiCamPro 开发团队
+- 米醋电子工作室
 - 所有贡献者
 
 ---

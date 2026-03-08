@@ -27,11 +27,11 @@ import numpy as np
 import math
 import gc
 import os
-from micu_uart_lib import SimpleUART
-from micu_uart_lib import micu_printf
-from micu_uart_lib import bind_variable
-from micu_uart_lib import VariableContainer
-from micu_uart_lib import clear_variable_bindings
+from uart_lib import SimpleUART
+from uart_lib import micu_printf
+from uart_lib import bind_variable
+from uart_lib import VariableContainer
+from uart_lib import clear_variable_bindings
 
 
 # ============================================================================
