@@ -509,7 +509,7 @@ return quads
 
 详细的技术博客已发表至 CSDN：
 
-**[基于 MaxiCamPro 的矩形识别系统实战详解](#)**
+**[基于 MaxiCamPro 的矩形识别系统实战详解](https://blog.csdn.net/knightLHT/article/details/158807418)**
 
 博客内容包括：
 - 算法原理深度剖析
